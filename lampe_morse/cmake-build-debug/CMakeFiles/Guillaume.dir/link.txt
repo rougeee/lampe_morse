@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/Guillaume.dir/main.c.o CMakeFiles/Guillaume.dir/seven-seg.c.o CMakeFiles/Guillaume.dir/UART.c.o CMakeFiles/Guillaume.dir/program.c.o CMakeFiles/Guillaume.dir/Fake_EEPROM.c.o  -o Guillaume 

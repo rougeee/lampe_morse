@@ -1,3 +1,0 @@
-/mnt/c/Dev/github-repositories/Projet_info_MCU/Guillaume/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Dev/github-repositories/Projet_info_MCU/Guillaume/cmake-build-debug/CMakeFiles/Guillaume.dir
-/mnt/c/Dev/github-repositories/Projet_info_MCU/Guillaume/cmake-build-debug/CMakeFiles/edit_cache.dir
